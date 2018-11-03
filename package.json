@@ -1,12 +1,12 @@
 {
-  "name": "assistant-template",
+  "name": "assistant-franprix",
   "version": "3.0.0",
-  "description": "Exemple de la structure d'un plugin",
-  "author": "aymkdn",
-  "main": "template.js",
-  "repository": "https://github.com/Aymkdn/assistant-template/",
+  "description": "Plugin Franprix pour Assistant-plugins",
+  "author": "Jérémie Zarca",
+  "main": "index.js",
+  "repository": "https://github.com/jzarca01/assistant-franprix/",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    "franprix-api": "^1.1.2"
   }
 }
