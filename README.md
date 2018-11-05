@@ -21,5 +21,5 @@ Deux paramètres sont obligatoires : `login` et `password`. Ils correspondent à
 
 Deux applets ont été créés :
 
-- Consulter le solde de sa carte --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
-- Ajouter les promos à sa carte --> *il faut créer l'applet via https://platform.ifttt.com/ pour pouvoir la publier et ensuite la partager*
+- [Consulter le solde de sa carte](https://ifttt.com/applets/SDzNjucC-assistant-plugins-quel-est-le-solde-de-ma-carte-franprix) --> https://ifttt.com/applets/SDzNjucC-assistant-plugins-quel-est-le-solde-de-ma-carte-franprix
+- [Ajouter les promos à sa carte](https://ifttt.com/applets/EiGjfApN-assistant-plugins-ajoute-les-promos-a-ma-carte-franprix) --> https://ifttt.com/applets/EiGjfApN-assistant-plugins-ajoute-les-promos-a-ma-carte-franprix
