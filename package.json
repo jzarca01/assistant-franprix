@@ -1,6 +1,6 @@
 {
   "name": "assistant-franprix",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Un plugin Franprix pour assistant-plugins",
   "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "index.js",
