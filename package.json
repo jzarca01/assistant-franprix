@@ -1,12 +1,12 @@
 {
   "name": "assistant-franprix",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Un plugin Franprix pour assistant-plugins",
   "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
   "main": "index.js",
   "repository": "https://github.com/jzarca01/assistant-franprix/",
   "license": "MIT",
   "dependencies": {
-    "franprix-api": "^2.0.0"
+    "franprix-api": "^2.0.2"
   }
 }
