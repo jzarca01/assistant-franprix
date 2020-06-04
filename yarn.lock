@@ -23,10 +23,10 @@ follow-redirects@1.5.10:
   dependencies:
     debug "=3.1.0"
 
-franprix-api@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/franprix-api/-/franprix-api-2.0.2.tgz#064ce02ab9cbdcac430268fe7296f32b3236c93b"
-  integrity sha512-6ISwq6qaaBltlHXsaOPKswyFrfkiNt2wEFcv7eQAhN0sVEVKll7tUsyBm0ZDhEk6ZxkXpCZx7LIDoPWO3QvM9A==
+franprix-api@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/franprix-api/-/franprix-api-2.0.3.tgz#7f942cbfabb9e11eedd7ab9342f9f77af9b57ea5"
+  integrity sha512-/bfzp1NYJAL/3spbEtInS7Y1f6UkfvrdoCN20RNLkyfyKIcR8Lg238o8g3yeJrimcJE+VyQoVVsOpLwoa+WFng==
   dependencies:
     axios "^0.19.0"
 
